@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQGMvN2z5oM_xw/feedshare-shrink_800/0/1662156995280?e=1665014400&v=beta&t=pSAVEpg41Ok1uTj2F271NjAY9C-BjsH0cXP-vNbn8JU" align="center" style="width: 100%" alt="responsive profile page" />
+<img src="https://github.com/MohammadSahragard/Responsive-Profile-Page/blob/main/Thumbnile.png?raw=true" align="center" style="width: 100%" alt="responsive profile page" />
 </div>  
   
 # Responsive Profile Page  
